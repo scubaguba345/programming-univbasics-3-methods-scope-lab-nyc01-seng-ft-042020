@@ -13,7 +13,8 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
-def any_phrases(phrase)
-  phrase = "Hello There Everyone!\n"
-  puts phrase
+def aall_phrases
+  mario
+  toadstool
+  link  
 end
