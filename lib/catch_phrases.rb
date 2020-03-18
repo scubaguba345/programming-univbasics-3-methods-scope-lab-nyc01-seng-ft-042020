@@ -13,6 +13,6 @@ def link
   puts catchphrase
 end
 
-def all_phrases(phrase)
-  puts phrase
+def all_phrases(all_phrases)
+  puts all_phrases
 end
